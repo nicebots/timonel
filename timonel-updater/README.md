@@ -4,7 +4,7 @@ __NOTE:__ This bootloader updater has been included from the [micronucleus](gith
 
 Usage:
 ------
-To simplify the step necesary to generate a bootloader update payload, use the __make-updater.sh__ script. If the script is run without arguments, it will generate a default-configuration based bootloader payload. The supported arguments are positional, as follows:
+To simplify the steps necesary to generate a bootloader update payload, use the __make-updater.sh__ script. If the script is run without arguments, it will generate a default-configuration based bootloader payload. The supported arguments are positional, as follows:
 
 * __CONFIG__: Timonel configuration option to use. (Def=tml-t85-std).
 
