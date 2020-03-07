@@ -10,7 +10,7 @@
  * NOTE:                                               *
  * -----                                               *
  * To compile on Windows, you need to install "MinGW"  *
- * with, at least the "mingw32-base" package from      *
+ * with, at least, the "mingw32-base" package from     *
  * the installation manager. You also have to verify   *
  * that your path variable includes "C:\MinGW\bin".    *
  *******************************************************
