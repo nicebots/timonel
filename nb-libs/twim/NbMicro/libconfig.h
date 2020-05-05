@@ -3,7 +3,7 @@
   =================================
   NbMicro & TwiBus configuration
   ---------------------------------
-  Version: 1.4 2019-08-09
+  Version: 0.9.0 2019-08-09
   gustavo.casanova@nicebots.com
   ---------------------------------
 */
